@@ -1,0 +1,13 @@
+body{
+  margin: 0;
+  font-family: "Poppins", sans-serif;
+  overflow-x: hidden;
+}
+a{
+  text-decoration: none;
+}
+p{
+  color: rgba(2, 6, 12, 0.92);
+  margin-top: 0;
+  margin-bottom: 0;
+}

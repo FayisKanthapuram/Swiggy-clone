@@ -1,0 +1,164 @@
+.top-section{
+  background-color: rgb(255, 82, 0);
+  width: 100%;
+  height: 844px;
+}
+.header{
+  height: 100px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.header .left-section{
+  padding-left: 135px;
+  padding-top: 22px;
+}
+
+.header .left-section .goto-home{
+  width: 160px;
+}
+.header .right-section{
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.header .right-section .text-cooperate{
+  margin-left: 175px;
+}
+
+.header .right-section .text-partner{
+  margin-left: 32px;
+}
+
+.header .right-section .top-text{
+  color: white;
+  font-size: 14px;
+  font-weight: 600;
+  margin-top: 34px;
+}
+
+.header .right-section .goto-app{
+  margin-left: 30px;
+  margin-top: 17px;
+  background-color: rgb(255, 82, 0);
+  color: white;
+  border: solid;
+  border-color: white;
+  border-width: 1px;
+  font-size: 15px;
+  font-weight: 600;
+  padding-left: 17px;
+  padding-right: 30px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 10px;
+}
+
+.header .right-section .sign-in{
+  margin-top: 18px;
+  margin-left: 30px;
+  background-color: black;
+  color: white;
+  padding-left: 45px;
+  padding-right: 45px;
+  padding-top: 18.5px;
+  padding-bottom: 18.5px;
+  font-size: 15px;
+  font-weight: 700;
+  border: none;
+  border-radius: 15px;
+}
+.arrow{
+  font-size: 20px;
+}
+
+.veg-picture{
+  width: 278px;
+  margin-top: 3px;
+}
+.sushi-picture{
+  width: 278px;
+  margin-top: 3px;
+  margin-left: 945px;
+}
+.middle-section{
+  display: flex;
+  position: relative;
+  width: 100%;
+  height: 700px;
+}
+.middle-center-text{
+  color: white;
+  font-weight: bold;
+  font-size: 50px;
+  text-align: center;
+  position: absolute;
+  top: 80px;
+  left: 500px;
+}
+
+.middle-center-text p{
+  color: white;
+}
+
+.location{
+  position: absolute;
+  top: 256px;
+  left: 297px;
+  font-size: 16px;
+  padding-left: 57px;
+  padding-right: 90px;
+  padding-bottom: 22px;
+  padding-top: 22px;
+  border-radius: 15px;
+  border: none;
+}
+.middle-section .search{
+  position: absolute;
+  width: 415px;
+  top: 256px;
+  left: 670px;
+  font-size: 16px;
+  padding-left: 20px;
+  padding-right: 100px;
+  padding-bottom: 22px;
+  padding-top: 22px;
+  border-radius: 15px;
+  border: none;
+}
+.location-image{
+  position: absolute;
+  top: 260px;
+  left: 300px;
+  width: 60px;
+  height: 50px;
+}
+.down-image{
+  position: absolute;
+  top: 265px;
+  left: 600px;
+  width: 45px;
+  height: 45px;
+}
+.search-image{
+  position: absolute;
+  top: 265px;
+  left: 1150px;
+  width: 45px;
+  height: 45px;
+}
+.restaurant-delivery-image{
+  width: 592px;
+  position: absolute;
+  top: 355px;
+  left: 158px;
+}
+.instamart-delivery-image{
+  width: 592px;
+  position: absolute;
+  top: 355px;
+  left: 750px;
+}
