@@ -6,6 +6,7 @@
   margin-right: 150px;
   margin-bottom: 110px;
 }
+
 .food{
   width: 200px;
 }
@@ -142,4 +143,7 @@ ul .cities{
 }
 .download:hover{
   transform: scale(1.1);
+}
+.cities button{
+  cursor: pointer;
 }

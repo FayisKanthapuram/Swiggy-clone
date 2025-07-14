@@ -12,12 +12,12 @@
 }
 
 .header .left-section{
-  padding-left: 135px;
-  padding-top: 22px;
+  padding-left: 150px;
+  padding-top: 35px;
 }
 
 .header .left-section .goto-home{
-  width: 160px;
+  width: 175px;
 }
 .header .right-section{
   flex: 1;
@@ -35,7 +35,7 @@
 
 .header .right-section .top-text{
   color: white;
-  font-size: 14px;
+  font-size: 17px;
   font-weight: 600;
   margin-top: 34px;
 }

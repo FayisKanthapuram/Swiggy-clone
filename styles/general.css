@@ -1,11 +1,14 @@
 body{
   margin: 0;
   font-family: "Poppins", sans-serif;
-  overflow-x: hidden;
   transform: scale(0.9);
   transform-origin: top left;
   width: 111.11%; /* 100% / 0.9 */
   overflow-x: hidden;
+}
+
+img{
+  cursor: pointer;
 }
 
 a{
@@ -15,4 +18,7 @@ p{
   color: rgba(2, 6, 12, 0.92);
   margin-top: 0;
   margin-bottom: 0;
+}
+html, body {
+  height: 100%;
 }
